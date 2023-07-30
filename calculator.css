@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+#calculator-container {
+  margin: 32px auto;
+  width: 206px;
+}
+
+.form-control {
+  width: 100%;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  border: solid 1px grey;
+  padding: 4px 8px;
+  text-align: right;
+}
+
+.row {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.btn {
+  width: 48px;
+  height: 48px;
+}
+
+.blue {
+  background-color: rgb(87, 87, 255);
+  color: white;
+}
+
+.black {
+  background-color: rgb(3, 3, 22);
+  color: white;
+}

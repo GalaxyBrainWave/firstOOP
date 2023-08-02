@@ -1,5 +1,5 @@
 # firstoop
-My first app coded in OOP
+My first ever app coded in OOP
 
 I basically followed the demo on this video about Copilot
 

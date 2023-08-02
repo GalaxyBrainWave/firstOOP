@@ -1,4 +1,4 @@
-// reset
+/* reset */
 * {
   margin: 0;
   padding: 0;
@@ -6,13 +6,13 @@
   font-size: 24px;
 }
 
-// center the calculator and 
+/* center the calculator and  */
 #calculator-container {
   margin: 32px auto;
   width: 256px;
 }
 
-// styling what will function as a display screen
+/* styling what will function as a display screen */
 .form-control {
   width: 100%;
   margin-bottom: 8px;
@@ -22,26 +22,26 @@
   text-align: right;
 }
 
-// styling each row of buttons
+/* styling each row of buttons */
 .row {
   height: 50px;
   display: flex;
   justify-content: space-between;
 }
 
-// styling the buttons
+/* styling the buttons */
 .btn {
   width: 48px;
   height: 48px;
 }
 
-// styling the = button
+/* styling the = button */
 .blue {
   background-color: rgb(87, 87, 255);
   color: white;
 }
 
-// styling the C button
+/* styling the C button */
 .black {
   background-color: rgb(3, 3, 22);
   color: white;
